@@ -1,5 +1,3 @@
-Duración: 2 horas
-
 Se tiene una aplicación web que permite listar, crear y editar los productos de una base de datos (BD_Productos). No se permite realizar ningún almacenamiento en disco.
 Los requisitos de la aplicación son:
 1.	Validaciones:
